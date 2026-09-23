@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--ikuuu-h02iv96g.com/sitemap.xml

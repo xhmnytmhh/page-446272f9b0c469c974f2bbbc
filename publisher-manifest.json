@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a17366e5f320ac1d6b9a6968",
+  "owner": "xhmnytmhh",
+  "repo": "page-446272f9b0c469c974f2bbbc",
+  "title": "光猫",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "446272f9b0c469c974f2bbbc",
+      "a": "光猫",
+      "b": "2027最新官网",
+      "entity": "光猫",
+      "brand": "光猫",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5c5e834a4f0a434616f1738c78c58f71d702ae91e386254a506df6e79ec9ae7c",
+      "content": {
+        "primary_entity": "光猫",
+        "keyword1": "光猫",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，路由器、电脑与手机各有适配版本，安装前确认系统版本与订阅格式。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，即可在常用设备上启用光猫加速。",
+          "AI_CLOSING_TITLE": "开始配置光猫加速",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，提供基础版、旗舰版、团队版三档方案，覆盖每月100GB至1000GB流量与3至20台设备需求，并整理路由器、电脑、手机客户端的配置步骤，方便按自身网络环境挑选合适订阅。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型三个角度对比套餐，确认使用场景后再确定订阅周期。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量与3台设备，适合单人日常使用；旗舰版每月300GB与5台设备，增加IPLC专线优化。",
+          "AI_FEATURE_TEXT_2": "团队版每月1000GB流量支持20台设备在线，配备VIP高带宽节点与企业定制路由，适合多人共享。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付方案，年付价格约为月付的十个月，长期使用可按年订阅节省支出。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TITLE_2": "按设备定方案",
+          "AI_FEATURE_TITLE_3": "订阅周期对比",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程，先确认设备数量与流量需求，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "光猫提供基础版、旗舰版、团队版三档订阅方案，流量从每月100GB到1000GB，支持3至20台设备在线，覆盖路由器、电脑与手机客户端配置。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同设备数量",
+          "AI_HIGHLIGHT_2": "年付方案节省约两个月费用",
+          "AI_HIGHLIGHT_3": "路由器电脑手机客户端可配",
+          "AI_PLANS_INTRO": "基础版每月100GB适合轻量使用，旗舰版每月300GB是多数用户的均衡选择，团队版每月1000GB支持20台设备共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数量，在基础版、旗舰版、团队版之间选择，确认月付或年付方式。",
+          "AI_STEP_TEXT_2": "核对设备系统版本与客户端要求，路由器、电脑、手机分别对应不同安装包，提前确认网络环境。",
+          "AI_STEP_TEXT_3": "参照所选客户端的配置文档导入订阅信息，保存后连接节点即可开始使用光猫加速服务。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "光猫订阅套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合单人或双人轻量使用，每月 100GB 流量和 3 台设备在线；旗舰版流量提升到 300GB，支持 5 台设备并增加专线节点，适合家庭或高频使用。",
+          "AI_FAQ_ANSWER_2": "可以。同一订阅可在套餐允许的设备数量内同时登录，但建议不要超出上限，否则可能出现连接异常。",
+          "AI_FAQ_ANSWER_3": "月付适合短期体验，年付通常更划算，例如基础版按年付仅需 ¥150/年。长期使用建议直接选年付方案。",
+          "AI_FAQ_ANSWER_4": "在客户端内删除旧订阅，重新添加最新订阅链接，保存后更新节点列表即可。不同客户端的导入位置略有差异，可参考对应文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版支持 IPLC 专线游戏加速优化，适合对延迟敏感的场景；团队版则提供 VIP 高带宽节点，适合多人协作或高流量需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "可以同时在多台设备上使用同一个订阅吗？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选比较合适？",
+          "AI_FAQ_QUESTION_4": "订阅链接在客户端里如何更新？",
+          "AI_FAQ_QUESTION_5": "哪个套餐更适合游戏或企业场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ikuuu-h02iv96g.com",
+    "host": "xn--ikuuu-h02iv96g.com"
+  },
+  "file_hashes": {
+    "index.html": "f2681443d4e43b86f7c3796bfa9bcbf954cd4732a4cb8c49e5bbf834a5af16f2",
+    "sitemap.xml": "6fca99af670d47b1677f6f9c18b268b972a2bdf251deae81037b865393e03037",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2e44f1042e2480e3950a35146b580e14ac9f8107c6c5d2817a85c35551d024eb",
+    "robots.txt": "14ba2920ef259179bb9f53b8bfd7a3bc957e4e3e7765214c5b177ada1c2e4346",
+    "4b4dc16df880773e35477471f6d7e777.txt": "7f4020ea714c0d75b590c3d3f51094e11a03211ad42a66e279af12ed2762148d"
+  },
+  "revision": "e40ab816ad74e220486f4e385fcc2a4b30860708b97e9a3de037ac5477631e86"
+}
